@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background: #f4f3f3;
+	color: #3d3c3c;
+	font-family: sans-serif;
+}
+#container {
+	width: 80%;
+	margin: 20px auto;
+	padding: 10px;
+	border: 1px solid #bfbebe;
+	display: flex;
+}
+#container div {
+	background: greenyellow;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+}

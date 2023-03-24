@@ -4,4 +4,4 @@ console.log("intro");
 // 2. show - me - the - react
 // 3. React Developer Tools
 
-console.log(Hello);
+console.log("Hello");
